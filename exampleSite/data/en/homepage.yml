@@ -38,7 +38,7 @@ promo:
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
@@ -65,8 +65,8 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  title: Get Gadget Updates
+  content: Get latest gadget update here
   placeholder: Your Email Address Here
 testimonial:
   enable: true
