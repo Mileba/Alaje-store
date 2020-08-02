@@ -49,7 +49,7 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-author = "Themefisher"
+author = "Mileba"
 contact_form_action = "#"
 currency = "#"
 description = "This is meta description"
