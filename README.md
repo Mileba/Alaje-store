@@ -8,7 +8,7 @@
 
 ### Step 1 : Fork or Clone repository
 
-First we will fork this [alaje store](https://github.com/Mileba/Alaje-Store) template.
+First we will fork this [alaje store](https://github.com/Mileba/Alaje-store) template.
 
 ### Step 2 : Add your repository in Forestry
 
@@ -19,9 +19,9 @@ Now mark everything as done, then go to configuration to change the base url . Y
 
 ### Step 3 : Setup and host website with Netlify
 
-Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `vex hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
+Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `Alaje-store` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
 
-> If you face any issue regarding the installation feel free to open [open a new issue](https://github.com/Mileba/Alaje-Store/issues)
+> If you face any issue regarding the installation feel free to open [open a new issue](https://github.com/Mileba/Alaje-store/issues)
 
 
 
@@ -29,8 +29,8 @@ Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) 
 At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
 
 ```
-$ git clone git@github.com:Mileba/Alaje-Store.git
-$ cd Alaje-Store/exampleSite/
+$ git clone git@github.com:Mileba/Alaje-store.git
+$ cd Alaje-store/exampleSite/
 $ hugo server --themesDir ../..
 ```
 
