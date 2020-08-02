@@ -53,7 +53,7 @@ about_product:
   enable: true
   title: Why Shop With Us
   items:
-  - image: images/delivery-image.jpeg
+  - image: images/delivery-image.jpg
     title: Quick Delivery
     content: Your order gets delivered to you within 24 - 48 hours of ordering
     button: ''
