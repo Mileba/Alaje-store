@@ -6,13 +6,13 @@ theme = "vex-hugo"
 title = "Alaje store"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed by Mileba Micheal"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By Mileba Micheal"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
@@ -55,7 +55,7 @@ currency = "₦"
 description = "This is meta description"
 logo = "images/alaje.png"
 logo_width = "100px"
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = "YmVlNDgzYTEtZWUxZS00YjA5LWI5ZDgtNDE2YTk5MzM5NDViNjM3MzE5Nzg1OTgzMjE0ODA1"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
