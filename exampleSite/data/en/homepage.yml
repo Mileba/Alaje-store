@@ -52,7 +52,11 @@ promo:
 about_product:
   enable: true
   title: Why Shop With Us
-  items: []
+  items:
+  - image: images/delivery-image.jpg
+    title: Quick Delivery
+    content: Your Gadget gets delivered within 24 - 48 hour of placing your order
+    button: ''
 products:
   enable: true
   title: Checkout Our All Products
