@@ -1,5 +1,5 @@
 baseurl = "alaje.netlify.app"
-disableLanguages = ["fr"]
+disableLanguages = ["FR"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
