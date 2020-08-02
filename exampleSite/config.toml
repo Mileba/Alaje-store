@@ -50,8 +50,8 @@ name = "Contact"
 weight = 4
 [params]
 author = "Mileba"
-contact_form_action = "#"
-currency = "#"
+contact_form_action = "mailto:milebamicheal@gmail.com"
+currency = "₦"
 description = "This is meta description"
 logo = "images/alaje.png"
 logo_width = "100px"
